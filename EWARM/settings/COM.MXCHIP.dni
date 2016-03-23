@@ -13,7 +13,7 @@ CStepIntDis=_ 0
 stlinkserialNo=USB0
 stlinkfoundProbes=
 [DebugChecksum]
-Checksum=-212606727
+Checksum=1154489356
 [CodeCoverage]
 Enabled=_ 0
 [Exceptions]
@@ -110,9 +110,8 @@ SumSortOrder=0
 [Disassemble mode]
 mode=0
 [Breakpoints2]
-Bp0=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c}.218.3" 0 0 1 "" 0 "" 0
-Bp1=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\Demos\COM.MXCHIP.SPP\tcl\mico_tcl_ota.c}.3536.2" 0 0 1 "" 0 "" 0
-Count=2
+Bp0=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\Demos\COM.MXCHIP.SPP\tcl\code\devproanaly\devproanaly.c}.692.4" 0 0 1 "" 0 "" 0
+Count=1
 [Log file]
 LoggingEnabled=_ 0
 LogFile=_ ""
